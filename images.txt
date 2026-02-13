@@ -1,1 +1,1 @@
-docker.xiaoya.pro/update_xiaoya.sh
+docker.xiaoya.pro
