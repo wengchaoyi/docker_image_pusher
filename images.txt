@@ -1,1 +1,1 @@
-docker.xiaoya.pro
+ailg666/xiaoya-tvbox:test
