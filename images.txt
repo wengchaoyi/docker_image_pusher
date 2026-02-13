@@ -1,1 +1,1 @@
-linuxserver/qbittorrent
+docker.xiaoya.pro/update_xiaoya.sh
